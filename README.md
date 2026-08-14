@@ -1,4 +1,4 @@
-Hi, I'm [Your Name] 👋
+Hi, I'm Diorbek 👋
 
 💻 Developer who enjoys building things and learning along the way.
 
