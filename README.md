@@ -1,17 +1,20 @@
-Hi, I'm Diorbek 👋
+👋 Hi, I'm [Your Name]
+Full-Stack Developer
 
-💻 Developer who enjoys building things and learning along the way.
+I build clean, practical and modern web applications.
 
-Tech
+<br>
+🛠️ Tech Stack
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,django,js,html,css" /> </p> <br>
+🚀 What I Do
+🌐 Web Development
+🐍 Python & Django
+⚡ JavaScript
+🎨 HTML & CSS
+<br>
+📌 Currently
 
-Python · JavaScript · HTML · CSS · Git
+Learning → Building → Improving
 
-Currently
-
-🌱 Learning. Building. Improving.
-
-Let's connect
-
-GitHub · Telegram
-
-Build simple. Think deeply. Keep going.
+<br>
+<p align="center"> <i>“Code is not just about writing. It's about creating.”</i> </p>
