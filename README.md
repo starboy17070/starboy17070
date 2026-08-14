@@ -1,12 +1,12 @@
-👋 Hi, I'm [Your Name]
+👋 Hi, I'm Diorbek
 Full-Stack Developer
 
-I build clean, practical and modern web applications.
+I build clear, practical and modern web applications.
 
 <br>
 🛠️ Tech Stack
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,django,js,html,css" /> </p> <br>
-🚀 What I Do
+🚀 What I Do:
 🌐 Web Development
 🐍 Python & Django
 ⚡ JavaScript
