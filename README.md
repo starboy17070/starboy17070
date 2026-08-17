@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Salom, men Diorbek! 
 
@@ -25,6 +25,25 @@
 - 🐍 **Python va Django** texnologiyalarining ashaddiy muxlisiman.
 - 🎨 Toza UI (foydalanuvchi interfeysi) va zamonaviy veb-dizaynni qadrlayman.
 - 🚀 Doimo yangi narsalarni o'rganishga intilaman.
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+| Achievement | Tavsif | Status |
+| :---: | :--- | :---: |
+| ⚡ **Quickdraw** | Pull request tezda yopilgan / Tezkor harakat | 🔓 Faol |
+| 🦈 **Pull Shark** | Ko'plab Pull Request'lar yaratilgan | 🔓 Faol |
+| 🚀 **YOLO** | Branch'ni merge qilishdan oldin kodni tekshirmasdan to'g'ridan-to'g'ri master/main'ga birlashtirish | 🔓 Faol |
+
+<br>
+
+<!-- GitHub yutuqlarining rasmiy nishonlari (agar rasmiy rasmlarni qo'shmoqchi bo'lsangiz) -->
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" /> **Mening yutuqlarim koleksiyasi** <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30" />
+
+</div>
 
 ---
 
